@@ -1,7 +1,5 @@
 # TU856/TU858 Object Oriented Programming Lab Test 2022
 
-# Test_Checking
-
 ## Rules
 - Stay on Teams for the duration of the test. I may ask you to turn on your cam or screenshare at any time
 - You have three hours to complete the test 
